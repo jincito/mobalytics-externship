@@ -5,3 +5,5 @@ Externships help you tackle complex and ambiguous business scenarios in an organ
 - Demonstrated proficiency in conducting comprehensive market research within the gaming industry and exploring diverse genres.
 - Leveraged immersive gameplay experiences to gain profound insights into player psychology.
 - Provided actionable insights to the Mobalytics team for decision-making on player engagement initiatives and overall business strategy.
+
+ The __entire point__ of the program is to give you a taste of what it is like to solve real organizational challenges.
