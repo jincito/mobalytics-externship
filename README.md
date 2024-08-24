@@ -7,3 +7,5 @@ Externships help you tackle complex and ambiguous business scenarios in an organ
 - Provided actionable insights to the Mobalytics team for decision-making on player engagement initiatives and overall business strategy.
 
  The __entire point__ of the program is to give you a taste of what it is like to solve real organizational challenges.
+
+![image](https://github.com/user-attachments/assets/b6dd5132-5737-45ad-b0a5-e22ee534abad)
