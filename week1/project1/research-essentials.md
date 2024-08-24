@@ -24,3 +24,13 @@ This will help __set you up with the mindset__ needed to excel in this externshi
 ### Experience
 - Engage with video games daily turning hobby into a career.
 - Going to events, play testing video games, interning, or creating online content.
+
+Consumers have different ideas and attitudes so it is important to research the target audience thoroughly.
+You’ve got to be interested in people, you’ve got to be intellectually curious. You need to be open to new ideas about how things work and what you think is right.
+
+Summary:
+A market researcher should have a strong interest in people and an open mind.
+Do internships & work experience to help you decide what's right for you.
+Speak to people dong a job you're interested in,
+to find out what it's really like.
+If you are not happy in a job, change it.
